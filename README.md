@@ -13,7 +13,7 @@
 É uma aplicação que ordena cartas de baralho a partir de seu valor.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/54643266/134987012-d8c22c1b-7578-44c6-8458-ba2edf3d36ec.png)
+![image](https://user-images.githubusercontent.com/54643266/134987090-0b0055b7-556f-40df-af55-a505e1cd60c8.png)
 ![image](https://user-images.githubusercontent.com/54643266/134987028-1021b560-f30d-4d80-a6d8-032a88ac629b.png)
 
 ## Instalação 

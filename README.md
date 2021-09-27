@@ -13,7 +13,8 @@
 É uma aplicação que ordena cartas de baralho a partir de seu valor.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image](https://user-images.githubusercontent.com/54643266/134987012-d8c22c1b-7578-44c6-8458-ba2edf3d36ec.png)
+![image](https://user-images.githubusercontent.com/54643266/134987028-1021b560-f30d-4d80-a6d8-032a88ac629b.png)
 
 ## Instalação 
 **Linguagem**: JavaScript<br>

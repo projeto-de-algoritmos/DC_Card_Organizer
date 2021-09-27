@@ -1,38 +1,27 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# Card Organizer
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: D&C<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 190041871  |  Abner Filipe |
+| 190019158  |  Rafael Leão |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+É uma aplicação que ordena cartas de baralho a partir de seu valor.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: JavaScript<br>
+**Framework**: ReactJS<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+- Para rodar a aplicação, deve-se ter instalado o npm ou o yarn.
+- Após clonar o repositório, basta abrir o terminal na pasta do projeto e rodar o comando "npm start"
+- A aplicação estará rodando no localhost na porta 3000(exceto caso já haja alguma aplicação rodando nesta porta).
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.

@@ -11,6 +11,7 @@
 
 ## Sobre 
 É uma aplicação que ordena cartas de baralho a partir de seu valor.
+Link da apresentação: https://youtu.be/Mdfak7hasEc
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/54643266/134987090-0b0055b7-556f-40df-af55-a505e1cd60c8.png)
